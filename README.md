@@ -1,12 +1,47 @@
-# React + Vite
+# Compozr ⚡  
+AI Component Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Compozr is an **AI-powered UI component generator** that transforms natural language prompts into **clean, reusable frontend components** across multiple frameworks.
 
-Currently, two official plugins are available:
+It helps developers rapidly generate production-ready UI code without writing boilerplate, improving speed, consistency, and creativity in frontend development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 What Compozr Does
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Describe a UI component in plain English, select a framework, and Compozr instantly generates:
+
+- Clean, structured code
+- Modern, responsive UI components
+- Ready-to-use frontend snippets
+
+All with **live preview, copy, and export support**.
+
+---
+
+## ✨ Features
+
+- 🤖 AI-powered UI component generation  
+- 🧩 Supports multiple frameworks:
+  - HTML
+  - CSS
+  - JavaScript
+  - Tailwind CSS
+  - Bootstrap
+- 👀 Live preview of generated components
+- 🧑‍💻 Built-in code editor
+- 📋 One-click copy to clipboard
+- 📦 Export generated code as files
+- 🌙 Modern dark UI with clean UX
+- 📱 Fully responsive interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+- **Monaco Editor**
+- **Google Gemini API**
+- **JavaScript (ES6+)**
