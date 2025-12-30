@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+}
+
+html {
+  overflow-x: hidden;
+}
+
+:root {
+  --bg-main: #0b0c10;
+  --bg-card: #12131a;
+  --bg-elevated: #181924;
+
+  --accent-primary: #a855f7;
+  --accent-secondary: #c084fc;
+  --accent-soft: rgba(168, 85, 247, 0.15);
+
+  --border-soft: #23243a;
+  --text-primary: #ffffff;
+  --text-secondary: #a1a1aa;
+}
+
+
+.sp-text {
+   background: conic-gradient(at top, #c084fc, #a855f7); /* from-purple-400 → to-purple-500 */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.icon{
+  padding: 15px;
+  font-size: 20px;
+  border: 1px solid #1f2937;
+  border-radius: 10px;
+  background-color: var(--secondary-bg);
+  cursor: pointer;
+};
