@@ -40,7 +40,6 @@ All with **live preview, copy, and export support**.
 ## 🛠️ Tech Stack
 
 - **React**
-- **Next.js**
 - **Tailwind CSS**
 - **Monaco Editor**
 - **Google Gemini API**
